@@ -1,0 +1,16 @@
+Face Detection
+
+1. Read Howse Chapter 5
+2. Create a program that implements human face detection in a real-time video.
+Upon recognizing a face or set of faces, your program would do something creative.
+
+Some suggestions:
+* swapping multiple faces
+* replacing face with something scary or funny
+* catching a falling object (apple)  with your (Newton's) head
+* decorating the detected face with make-up, masks, or anything fancy
+* using the movement of your face as a controller to a game
+* https://www.facebook.com/reel/4003829733274764
+* https://www.facebook.com/reel/321775334361242
+
+
